@@ -46,12 +46,6 @@
             key-positions = <12 13>;
             bindings = <&kp LGUI>;
         };
-
-        combo_rgui {
-            timeout-ms = <50>;
-            key-positions = <17 18>;
-            bindings = <&kp RGUI>;
-        };
     };
 
     keymap {
