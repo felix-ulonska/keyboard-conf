@@ -46,6 +46,11 @@
             key-positions = <12 13>;
             bindings = <&kp LGUI>;
         };
+
+        new_combo {
+            bindings = <&kp RALT>;
+            key-positions = <2 3>;
+        };
     };
 
     keymap {
