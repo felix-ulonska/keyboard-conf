@@ -71,10 +71,10 @@
 
         right_layer {
             bindings = <
-&kp EXCLAMATION  &kp AT     &kp HASH  &kp DLLR   &kp PERCENT    &kp CARET  &kp AMPS      &kp ASTERISK    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp HASH         &kp QMARK  &kp FSLH  &kp COLON  &kp SEMICOLON  &kp MINUS  &kp KP_EQUAL  &kp LBRC        &kp UP_ARROW          &kp SEMICOLON
-&kp LSFT         &kp KPLS   &kp LPAR  &kp RPAR   &kp BSLH       &kp UNDER  &kp LEFT      &kp LEFT_ARROW  &kp DOWN_ARROW        &kp RIGHT
-                                      &mo 3      &kp LCTL       &kp SPC    &mo 2
+&kp EXCLAMATION  &kp AT          &kp HASH  &kp DLLR   &kp PERCENT    &kp CARET  &kp AMPS      &kp ASTERISK    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+&kp HASH         &kp QMARK       &kp UP    &kp COLON  &kp SEMICOLON  &kp MINUS  &kp KP_EQUAL  &kp LBRC        &kp UP_ARROW          &kp SEMICOLON
+&kp LEFT         &kp LEFT_ARROW  &kp DOWN  &kp RIGHT  &kp BSLH       &kp UNDER  &kp LEFT      &kp LEFT_ARROW  &kp DOWN_ARROW        &kp RIGHT
+                                           &mo 3      &kp LCTL       &kp SPC    &mo 2
             >;
         };
 
